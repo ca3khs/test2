@@ -1,4 +1,6 @@
 <?phpinfo
-	phpinfo();
+
+	echo "haha";
+//	phpinfo();
 	exit;
 ?>
